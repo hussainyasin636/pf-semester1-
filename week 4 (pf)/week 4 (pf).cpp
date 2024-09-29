@@ -1,0 +1,28 @@
+#include<iostream>
+using namespace std;
+void k()
+
+int main()
+{ k();
+();}
+
+k(){   cout<<"      ##        ##"<<endl;
+   cout<<"          ##      ##"<<endl;
+ cout<<"            ## ###" <<endl;
+cout<<"             ##       "<<endl;
+cout<<"             ######  "<<endl;
+cout<<"             ##      ##"<<endl;
+cout<<"             ##      ##"<<endl;
+cout<<"             ##      ## "<<endl;
+cout<<"             ##       ## "<<endl;
+cout<<"             ##       ##  "<<endl;
+cout<<"             ##       ##"<<endl;}
+
+
+
+
+
+
+
+
+}
